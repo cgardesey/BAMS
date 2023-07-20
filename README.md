@@ -1,7 +1,5 @@
 # WinForms Biometric (Fingerprint) Attendance Management System
 
-![Biometric Attendance Management System](https://example.com/biometric_attendance_system.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
