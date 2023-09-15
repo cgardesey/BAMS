@@ -47,5 +47,5 @@ When contributing to this repository, please first discuss the changes you wish 
 
 ## License
 
-ProductTrader project is licensed under the [MIT License](LICENSE). Feel free to use it as a reference or starting point for your own projects.
+ProductTrader project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
 
