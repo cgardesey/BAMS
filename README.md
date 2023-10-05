@@ -43,7 +43,7 @@ To run the Biometric Attendance Management System on your local machine, follow 
 
 Contributions to the Biometric Attendance Management System project are welcome and encouraged! If you find any bugs, have feature requests, or want to contribute enhancements, please open a new issue or submit a pull request.
 
-If you're looking to integrate with hardware project, make sure to check out the the repository corresponding to the [desktop application](https://github.com/cgardesey/bams_firmware) for detailed instructions.
+If you're looking to integrate with hardware project, make sure to check out the the repository corresponding to the [firmware project](https://github.com/cgardesey/bams_firmware) for detailed instructions.
 
 
 When contributing to this repository, please first discuss the changes you wish to make with the project maintainers via issues or email.
